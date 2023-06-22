@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âîÂŞıÿÿÿÿ8Î‡ƒĞ1
+e
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Lazy'.(İ·­æ8©Ğ1
+h
+java:S1128"KRemove this unused import 'org.springframework.context.annotation.Primary'.(“ğ›ß8©Ğ1

@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âîÂŞıÿÿÿÿ8™ş÷Ğ1
+
+java:S1128"]Remove this unused import 'org.springframework.beans.factory.config.ConfigurableBeanFactory'.(á©³„üÿÿÿÿ8Ñ¸§Ñ1
+s
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäşÿÿÿÿ8Ò¸§Ñ1
+k
+java:S1128"IRemove this unused import 'org.springframework.context.annotation.Scope'.(şè®€ÿÿÿÿÿ8Ò¸§Ñ1

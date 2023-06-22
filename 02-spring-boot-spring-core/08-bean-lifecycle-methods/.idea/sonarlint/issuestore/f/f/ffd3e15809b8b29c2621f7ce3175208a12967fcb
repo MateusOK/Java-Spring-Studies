@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÏÜøÿÿÿÿ8Õ¦ØĞ1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(–ü°—ıÿÿÿÿ8Ö¦ØĞ1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(âîÂŞıÿÿÿÿ8îÕØĞ1
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ÔòÛĞ1
+M
+java:S1068"0Remove this unused "anotherCoach" private field.(ì÷Õ¹8Ö¦ØĞ1
